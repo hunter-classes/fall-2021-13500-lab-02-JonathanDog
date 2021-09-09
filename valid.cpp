@@ -8,7 +8,7 @@ int main () {
 
 	std::cin >> number;
 	
-	while(number > 100 || number < 0) {
+	while(number >= 100 || number <= 0) {
 		std::cout <<  "Please re-enter: ";
 		std::cin >> number;
 	} 
