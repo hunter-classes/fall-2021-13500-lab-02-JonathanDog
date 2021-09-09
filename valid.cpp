@@ -14,7 +14,7 @@ int main () {
 	} 
 	
 	int squared = number * number;
-	std::cout << "Number squared is " << squared << endl;
+	std::cout << "Number squared is " << squared << std::endl;
 	
 
 
