@@ -1,5 +1,11 @@
-//Jonathan Shnayder
-//Lab 2 A
+/* Author: Jonathan Shnayder 
+Course: CSCI-135 
+Instructor: Micheal Zamansky 
+Assignement: Lab 2A 
+
+Program takes a number from the user that is between 0 and 100 and prints out the squared value. It will keep asking for a number until it is beteween the correct range 
+*/
+
 #include <iostream>
 
 int main () {

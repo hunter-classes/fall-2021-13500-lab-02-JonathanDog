@@ -1,5 +1,11 @@
-#include <iostream>
+/* Author: Jonathan Shnayder 
+Course: CSCI-135 
+Instructor: Micheal Zamansky 
+Assignement: Lab 2B 
 
+Program prints all the values from a specifc range. The print_interval function comes from a outside file and linked with a funcs.h file 
+*/
+#include <iostream>
 #include "funcs.h"
 
 int main() {

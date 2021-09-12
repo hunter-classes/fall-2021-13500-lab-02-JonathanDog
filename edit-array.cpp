@@ -1,3 +1,12 @@
+/* Author: Jonathan Shnayder 
+Course: CSCI-135 
+Instructor: Micheal Zamansky 
+Assignment: Lab 2C 
+
+Program allows the user to interact with a array of size 10. The user can choose what index they want a certian value at. 
+*/
+
+
 #include <iostream>
 
 int main() {

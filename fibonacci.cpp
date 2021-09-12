@@ -1,3 +1,10 @@
+/* Author: Jonathan Shnayder 
+Course: CSCI-135 
+Instructor: Micheal Zamansky 
+Assignement: Lab 1B
+ 
+Program prints first 60 values of the fibonacci sequence. At around 2 billion the values are incorrect. 
+*/
 #include <iostream>
 
 int main() {
